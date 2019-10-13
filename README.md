@@ -6,4 +6,4 @@
 
 3、性能瓶颈分析：[数据库连接池]()
 
-4、二期实施：[《二期方案使用组件》](https://github.com/kelingwei/skeleton)
+4、二期实施规划：[《二期方案使用组件》](https://github.com/kelingwei/skeleton)
